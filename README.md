@@ -5,7 +5,7 @@ This Android application utilizes the OpenWeatherMap API and Google Maps service
 
 
 ## Démonstration 
-<img src="./screen.gif" alt="App Demo">
+<img height="800" src="./screen.gif" alt="App Demo">
 
 ## Features
 

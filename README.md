@@ -19,7 +19,7 @@ This Android application utilizes the OpenWeatherMap API and Google Maps service
 
 ## Installation
 
-1. Clone or download the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone or download the repository: `git clone https://github.com/abderrazzaq-laanaoui/Weathery`
 2. Open the project in Android Studio.
 3. Replace the `YOUR_OPENWEATHERMAP_API_KEY` placeholder in the `Constants.java` file with your OpenWeatherMap API key.
 4. Replace the `YOUR_GOOGLE_MAPS_API_KEY` placeholder in the `AndroidManifest.xml` file with your Google Maps API key.

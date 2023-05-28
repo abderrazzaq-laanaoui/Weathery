@@ -3,6 +3,10 @@ Android Native Weather Application
 
 This Android application utilizes the OpenWeatherMap API and Google Maps service to provide weather information and location services. Users can view the current weather conditions and forecast for a specified location, as well as visualize the location on a map.
 
+
+## Démonstration 
+<img src="./screen.gif" alt="App Demo">
+
 ## Features
 
 - Retrieve current weather data (temperature, humidity, wind speed, etc.) for a given location using the OpenWeatherMap API.

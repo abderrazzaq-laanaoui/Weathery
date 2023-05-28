@@ -52,5 +52,3 @@ Contributions are welcome! If you find any bugs or want to add new features, fee
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to update this `readme.md` file with more details about your specific implementation, additional features, or any other relevant information.

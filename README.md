@@ -6,14 +6,13 @@ This Android application utilizes the OpenWeatherMap API and Google Maps service
 ## Features
 
 - Retrieve current weather data (temperature, humidity, wind speed, etc.) for a given location using the OpenWeatherMap API.
-- Display a 5-day weather forecast for the selected location.
 - Utilize the Google Maps service to provide location-based services and visualization.
 - Allow users to search for a specific location and retrieve weather information accordingly.
 - Display the location on a map using the Google Maps API.
 
 ## Requirements
 
-- Android device or emulator running Android 6.0 (API level 23) or above.
+- Android device or emulator running Android 7.0 (API level 31) or above.
 - Internet connection to fetch weather data and maps.
 - OpenWeatherMap API key. (Sign up at https://openweathermap.org/ to obtain the API key.)
 - Google Maps API key. (Get an API key from the Google Cloud Platform Console.)
